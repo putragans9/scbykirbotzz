@@ -58,7 +58,6 @@
     "type": "^2.5.0",
     "tiktok-scraper-without-watermark": "^1.0.6",
     "twitter-url-direct": "^1.0.1",
-    "util": "^0.12.4",
-    "yt-search": "^2.8.0"
+    "util": "^0.12.4"
 }
 }
