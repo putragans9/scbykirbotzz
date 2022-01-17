@@ -85,7 +85,7 @@ ftogame = fs.readFileSync('./V4/FOTO/gamefake.jpg')
 ftoples = fs.readFileSync('./V4/FOTO/18+fake.jpg')
 ftoasupan = fs.readFileSync('./V4/FOTO/asupanfake.jpg')
 ///////////////
-banChats = true
+banChats = false
 //////////////////////////////////////////////////////////////////////////////////////////
 var getCmd = (id) => {
 let position = null;
