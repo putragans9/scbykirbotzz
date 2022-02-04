@@ -27,7 +27,7 @@
 2. Run<br/>
 
 ```
-> npm start
+>3 npm start
 ```
 
 ## `HEROKU`
